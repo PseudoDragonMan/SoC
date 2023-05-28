@@ -1,0 +1,18 @@
+WEEK 1 ASSIGNMENT DESCRIPTION
+
+> I have added a few comments in the code to provide the basic functions atleast.
+
+> The math part of the problem statement, I worked it out after thoroughly studying the reading material first and then was able to convert it into code using the links provided in the problem statement document.
+
+> I have also referred to the Krittika python tutorials on GitHub for NumPy and MathPlotLib.
+
+> I have looked up the algorithm and ideas for implementing the epsilon-greedy algorithm online. 
+
+> The algorithm I chose to use was simple mostly based on if-else conditions. I used a random number generator to gemerate a number between 0 and 1 and compared them with epsilon to differentiate between cases of exploitation and exploration.
+
+> I have also referred to Sutton and Barto for theory on the multi-arm bandit problem.
+
+THIS WAS A FUN ASSIGNMENT AND GAVE ME A REAL TASTE OF REINFORCEMENT LEARNING
+
+							THANK YOU
+						----------X---------
